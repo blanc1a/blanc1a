@@ -24,7 +24,7 @@ After completing my bootcamp, my goal is to channel my passion for web developme
 
 ### 📊 Stats
 
-<!--![Blanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanc1a&show_icons=true&theme=gruvbox)-->
+![Blanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanc1a&show_icons=true&theme=gruvbox)
 
 #
 
