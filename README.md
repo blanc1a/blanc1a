@@ -2,7 +2,7 @@
 
 **`Frontend Web Developer`**
 
-Welcome to my GitHub Profile! I'm an enthusiastic Frontend Web Developer who recently completed an intensive <a href="https://www.coding-bootcamps.eu/">Coding Bootcamp</a>. In this program, I gained comprehensive knowledge in HTML, CSS, and JavaScript. Additionally, I delved into modern frontend technologies such as Vue.js and Vite.
+Welcome to my GitHub Profile! I'm an enthusiastic Frontend Web Developer who recently completed an intensive <a href="https://www.coding-bootcamps.eu/" target="_blank">Coding Bootcamp</a>. In this program, I gained comprehensive knowledge in HTML, CSS, and JavaScript. Additionally, I delved into modern frontend technologies such as Vue.js and Vite.
 After completing my bootcamp, my goal is to channel my passion for web development into a professional environment. I am always curious and open to new challenges in the tech industry.
 
 --- 
