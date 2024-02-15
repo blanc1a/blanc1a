@@ -27,12 +27,6 @@ After completing my bootcamp, my goal is to channel my passion for web developme
 ![Blanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanc1a&show_icons=true&theme=gruvbox) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blanc1a&theme=gruvbox&border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#
-
-<details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-With my studies in Media and Communications for Digital Business, I not only gained an initial insight into the world of computer science but also took my first steps in this fascinating field. In search of a hands-on specialization, I opted for further education as a Frontend Developer through an intensive coding bootcamp. This experience allowed me to solidify my foundational knowledge and chart a clear professional path in the realm of frontend development. Despite already possessing a strong base, I remain in a continuous learning phase to deepen my skills and stay abreast of the latest developments.
-
 
 
 
