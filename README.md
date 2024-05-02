@@ -1,9 +1,9 @@
-# 🌵 Blanca Ziems
+# 🌵 Hello there
 
-**`Junior Frontend Web Developer`**
+**`Frontend Web Developement`**
 
 Welcome to my GitHub Profile! I'm an enthusiastic Frontend Web Developer who recently completed an intensive <a href="https://www.coding-bootcamps.eu/" target="_blank">Coding Bootcamp</a>. In this program, I gained comprehensive knowledge in HTML, CSS, and JavaScript. Additionally, I delved into modern frontend technologies such as Vue.js and Vite.
-After completing my bootcamp, my goal is to channel my passion for web development into a professional environment. I am always curious and open to new challenges in the tech industry.
+I'm driven by the fusion of distinctive design and functional usability, aiming to tackle real-world challenges. Prioritizing user experience, I'm deeply passionate about crafting visually captivating and interactive websites. After completing my bootcamp, my goal is to channel my passion for web development into a professional environment. I am always curious and open to new challenges in the tech industry.
 
 --- 
 <!--
