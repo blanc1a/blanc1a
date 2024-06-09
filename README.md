@@ -23,10 +23,10 @@ I'm driven by the fusion of distinctive design and functional usability, aiming 
 -->
 
 ### 📊 Stats
-<div style="display: flex; align-items: center;>
+
 ![Blanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=blanc1a&show_icons=true&theme=gruvbox) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blanc1a&theme=gruvbox&border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 
 
